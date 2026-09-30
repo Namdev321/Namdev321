@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my First Repository.
+Author - Namdev Phad
 
 <!--
 **Namdev321/Namdev321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
